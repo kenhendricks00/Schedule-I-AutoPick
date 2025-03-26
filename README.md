@@ -20,7 +20,7 @@ pip install pydirectinput opencv-python numpy keyboard mss pywin32
 
 1. **Run the script**  
    ```bash
-   python autopick.py
+   python AutoPick.py
    ```  
 2. **Ensure the game window is active** (AutoPick will attempt to focus **Schedule I** automatically).  
 3. **Press `CTRL + ALT`** to toggle AutoPick on/off.  
